@@ -1,7 +1,7 @@
 /**
  * Book My Stay App
  * Use Case 2: Basic Room Types & Static Availability
- * @author Rachana
+ * @author Nivashini
  * @version 2.0
  */
 
